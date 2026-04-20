@@ -22,7 +22,7 @@ This is significantly better than the naive baseline (MAE 0.0661).
 - Bullpen strength (`SV`) contributes meaningfully.
 
 ## Project Structure
-
+```text
 mlb-win-predictor/
 ├── data/                  # Lahman CSVs (ignored in git)
 ├── notebooks/
@@ -41,7 +41,7 @@ mlb-win-predictor/
    ```bash
    python -m venv venv
    venv\Scripts\activate    # Windows
-   # source venv/bin/activate   # macOS/Linux
+   source venv/bin/activate   # macOS/Linux
 
 ## Install Dependencies
 
