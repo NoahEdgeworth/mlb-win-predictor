@@ -32,7 +32,7 @@ mlb-win-predictor/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ## How to Reproduce
 
 1. Clone the repo
